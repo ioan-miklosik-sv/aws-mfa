@@ -1,4 +1,4 @@
-package org.noip.imiklosik;
+package org.noip.imiklosik.awsmfa;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

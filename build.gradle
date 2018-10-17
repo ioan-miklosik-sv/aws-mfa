@@ -19,7 +19,7 @@ apply plugin: 'org.springframework.boot'
 
 bootJar {
     classifier = 'exec'
-    mainClassName = 'org.noip.imiklosik.Main'
+    mainClassName = 'org.noip.imiklosik.awsmfa.Main'
 }
 
 repositories {
